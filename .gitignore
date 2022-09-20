@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # List files
-Data/listfile2021
+data/listfile2021
+data/listfile_mystocks
